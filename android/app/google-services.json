@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "233176771191",
+    "project_id": "news-aggregator-app-97965",
+    "storage_bucket": "news-aggregator-app-97965.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233176771191:android:ee91e8177f1e73ed687472",
+        "android_client_info": {
+          "package_name": "com.example.news_aggregator_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-nifsl_dQVhAIdv3VEVC8m0mEqtwd_KA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
