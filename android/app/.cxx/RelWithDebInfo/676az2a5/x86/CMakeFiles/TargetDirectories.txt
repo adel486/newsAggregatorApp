@@ -1,0 +1,2 @@
+C:/Users/ADHIL/OneDrive/Desktop/Lumi.technoHub/task_2_news/news_aggregator_app/android/app/.cxx/RelWithDebInfo/676az2a5/x86/CMakeFiles/edit_cache.dir
+C:/Users/ADHIL/OneDrive/Desktop/Lumi.technoHub/task_2_news/news_aggregator_app/android/app/.cxx/RelWithDebInfo/676az2a5/x86/CMakeFiles/rebuild_cache.dir

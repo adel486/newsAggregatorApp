@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:news_aggregator_app/controller/login_screen_controller.dart';
+import 'package:news_aggregator_app/view/registration_screen/registration_screen.dart';
 import 'package:provider/provider.dart';
 
 class LoginScreen extends StatefulWidget {
@@ -227,7 +228,12 @@ class _LoginScreenState extends State<LoginScreen> {
                     SizedBox(width: 6),
                     // Navigate to register screen if not registered
                     InkWell(
-                      onTap: () {},
+                      onTap: () {
+                        Navigator.push(
+                            context,
+                            MaterialPageRoute(
+                                builder: (context) => RegistrationScreen()));
+                      },
                       child: Text(
                         "Sign up",
                         style: TextStyle(color: Colors.black, fontSize: 15),
